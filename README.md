@@ -5,4 +5,4 @@ Each folder of each day will consist of a ReadMe file which will describe what I
 Join me as I venture on this path of React.
 
 The link to my course:
-https://www.udemy.com/course/the-ultimate-react-course/learn/lecture/35882526#overview
+https://www.udemy.com/course/the-ultimate-react-course/
